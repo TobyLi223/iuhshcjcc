@@ -4,6 +4,6 @@ compatibility_date = "2025-11-04"
 keep_vars = true
 
 [[kv_namespaces]]
-binding = "kv"
+binding = "KV"
 id = "f2e924b008bf4750bbfc1b2e5ca91ee3"
 
